@@ -1,2 +1,2 @@
-# Cybersecurity
-Projects & Mini projects for show
+# Web security scanner
+Mini project

@@ -1,2 +1,2 @@
-# Cyber
-Welscome - Projects and Mini project
+# Cybersecurity Python projects
+Projects and Mini project

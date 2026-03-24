@@ -1,0 +1,5 @@
+Your computer talks to other computers through ports. A port is just a numbered door like apartment numbers in a building. Different services live behind different doors
+  This is a very simple port scanner using python, the basic main idea of what this program does is that it checks ports from 1 to 1024.
+  - It goes from each port one by one 
+  - Checks for half a second then moves on
+  - The program always closes the ports before moving on using sock.close

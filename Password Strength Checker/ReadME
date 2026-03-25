@@ -1,0 +1,15 @@
+# Password Strength Checker
+
+A simple Python script that checks the strength of a password based on 5 criteria.
+
+## How it works
+- Checks the password is at least 8 characters long
+- Checks for uppercase and lowercase letters (A-Z, a-z)
+- Checks for at least one number (0-9)
+- Checks for special characters (!@#$%^&*_-)
+- Returns a strength rating from Very Weak to Very Strong, plus tips to improve
+
+## How to run
+1. Make sure Python is installed
+2. Run `python password_checker.py`
+3. Enter a password when prompted
